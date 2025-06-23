@@ -1,0 +1,1 @@
+# ai-joker-manga-translator
